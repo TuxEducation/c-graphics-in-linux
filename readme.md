@@ -13,7 +13,7 @@
 
 * open terminal run the below command
 
-`./c_graphics`
+`./c_graphics.sh`
 
 ------------
 
